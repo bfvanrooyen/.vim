@@ -1,2 +1,2 @@
-# vim-stuff
-My collection of vim related stuff
+# .vim
+My collection of vim related things
